@@ -1,0 +1,309 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-09-24 15:47:36 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2026-09-24 15:47:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_cold_ocean": "2026-09-24 15:54:05 +0200",
+      "minecraft:cold_ocean": "2026-09-24 15:51:55 +0200",
+      "minecraft:beach": "2026-09-24 15:47:37 +0200",
+      "minecraft:mushroom_fields": "2026-09-24 16:39:22 +0200",
+      "minecraft:taiga": "2026-09-24 15:48:07 +0200",
+      "minecraft:deep_ocean": "2026-09-24 16:19:48 +0200"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-09-24 15:52:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:root": {
+    "criteria": {
+      "0": "2026-09-24 15:52:27 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:root": {
+    "criteria": {
+      "0": "2026-09-24 15:52:27 +0200"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2026-09-24 15:52:27 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_redstone": {
+    "criteria": {
+      "inv_changed-redstone": "2026-09-24 15:52:27 +0200"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2026-09-24 15:52:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-09-24 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-09-24 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-09-24 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-09-24 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "aquamirae:ice_maze": "2026-09-24 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-09-24 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-09-24 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-09-24 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-09-24 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-09-24 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_tidepiercer": {
+    "criteria": {
+      "aquamirae:tidepiercer": "2026-09-24 15:55:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2026-09-24 15:57:13 +0200",
+      "minecraft:vindicator": "2026-09-24 15:55:25 +0200"
+    },
+    "done": false
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2026-09-24 15:55:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-09-24 15:55:25 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2026-09-24 15:55:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:vindicator": "2026-09-24 15:55:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2026-09-24 15:55:26 +0200"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_pirate_pouch": {
+    "criteria": {
+      "aquamirae:pirate_pouch": "2026-09-24 15:57:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2026-09-24 15:57:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2026-09-24 15:57:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2026-09-24 15:57:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2026-09-24 15:57:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2026-09-24 15:57:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2026-09-24 15:57:21 +0200"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/spool": {
+    "criteria": {
+      "has_iron_rod": "2026-09-24 15:57:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2026-09-24 15:57:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2026-09-24 15:57:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2026-09-24 15:57:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2026-09-24 15:57:22 +0200"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2026-09-24 15:57:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-09-24 15:57:35 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2026-09-24 16:06:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "tick": "2026-09-24 16:06:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2026-09-24 16:20:02 +0200"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_pane_from_conversion": {
+    "criteria": {
+      "has_item": "2026-09-24 16:23:59 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2026-09-24 16:41:57 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2026-09-24 16:41:57 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2026-09-24 16:41:36 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2026-09-24 16:41:36 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2026-09-24 16:41:36 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2026-09-24 16:41:57 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

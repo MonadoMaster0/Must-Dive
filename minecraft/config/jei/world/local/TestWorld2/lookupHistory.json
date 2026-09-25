@@ -1,0 +1,16 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:oak_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:netherite_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:recall_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"malum:zinc_node"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:gunpowder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:copper_backtank","components":"{\"create:banktank_air\":900}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aquamirae:wisteria_niveis"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:netherite_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:blaze_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apothic_enchanting:helmet_tome"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apothic_enchanting:inert_trident"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:book","components":"{\"minecraft:item_name\":\u0027{\"translate\":\"item.antique_atlas.atlas\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"gray\",\"italic\":false,\"translate\":\"item.antique_atlas.atlas.lore\"}\u0027,\u0027{\"color\":\"gray\",\"italic\":false,\"translate\":\"item.antique_atlas.atlas.hint\",\"with\":[{\"translate\":\"item.antique_atlas.atlas\"}]}\u0027]}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

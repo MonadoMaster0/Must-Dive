@@ -1,0 +1,25 @@
+[20:59:22] [INIT] KubeJS 2101.7.2-build.377; MC 2101 NeoForge
+[20:59:22] [INIT] Loaded plugins:
+[20:59:22] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[20:59:22] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[20:59:22] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[20:59:22] [INIT] - com.sammy.malum.compat.kubejs.MalumJSPlugin
+[20:59:22] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[20:59:22] [ERROR] ! server_scripts:death_recall.js#2: Unknown event 'EntityEvents.hurt'!
+[20:59:22] [INFO] Loaded script server_scripts:death_recall.js in 0.002 s
+[20:59:22] [INFO] server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[20:59:22] [INFO] Loaded script server_scripts:main.js in 0.0 s
+[20:59:22] [INFO] Loaded 2/2 KubeJS server scripts in 0.008 s with 1 errors and 0 warnings
+[20:59:22] [INIT] KubeJS 2101.7.2-build.377; MC 2101 NeoForge
+[20:59:22] [INIT] Loaded plugins:
+[20:59:22] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[20:59:22] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[20:59:22] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[20:59:22] [INIT] - com.sammy.malum.compat.kubejs.MalumJSPlugin
+[20:59:22] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[20:59:22] [ERROR] ! server_scripts:death_recall.js#2: Unknown event 'EntityEvents.hurt'!
+[20:59:22] [INFO] Loaded script server_scripts:death_recall.js in 0.001 s
+[20:59:22] [INFO] server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[20:59:22] [INFO] Loaded script server_scripts:main.js in 0.0 s
+[20:59:22] [INFO] Loaded 2/2 KubeJS server scripts in 0.004 s with 1 errors and 0 warnings
+[20:59:23] [INFO] Server resource reload complete!

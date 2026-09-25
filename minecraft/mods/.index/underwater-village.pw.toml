@@ -1,0 +1,18 @@
+filename = 'underwater_village-1.0.2-neoforge-1.21.1.jar'
+name = 'Underwater Village'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2'
+
+[download]
+hash = '87362fb9df4851e5445d6536bbe4a149f9effb38def78ffaed6f33fe656d1333add9566983a13b2038796b6c7ac7a26961e2306c66bf5c7ca43704babc1738df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b4628Bd1/versions/ZCmcmtOR/underwater_village-1.0.2-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'b4628Bd1'
+version = 'ZCmcmtOR'

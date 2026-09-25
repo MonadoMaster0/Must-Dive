@@ -1,0 +1,18 @@
+filename = 'craftrecall-1.0.0.jar'
+name = 'CraftRecall'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '354438983486dfd1cb74f92490d58c58bf61f2486834cc6192c9075b5c9b88d7bbdf652e4a374b8324c97915028cdfe4e801b0ac1b6382b9ea3370b2d7aa10ad'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UwQPksdT/versions/PN5LhByw/craftrecall-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'UwQPksdT'
+version = 'PN5LhByw'

@@ -1,0 +1,4 @@
+[18:37:02] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[18:37:02] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE recallstaffs 6.2.0+1.21 {depends craftingmanipulator @ [>=5.2.0]}, ROOT_FORCELOAD_SINGLE recallstaffs 6.2.0+1.21]
+[18:37:02] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP recallstaffs 6.2.0+1.21 {depends craftingmanipulator @ [>=5.2.0]}]
+[18:37:02] [INFO] [FabricLoader/Resolution]: Fix: add [add:craftingmanipulator 5.2.0 ([[5.2.0,∞)])], remove [], replace []

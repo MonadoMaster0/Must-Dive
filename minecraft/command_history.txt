@@ -1,0 +1,4 @@
+/effect give MonadoMaster0 apothic_attributes:flying infinite
+/kubejs reload
+/kubejs reload server-scripts
+/reload

@@ -37,11 +37,11 @@
     // Some jungles generate massive pillars that can extend upwards of a hundred blocks tall.
     "jungle_pillars": true,
     // Skews terrain towards or away from oceans. Lower values = more oceans. Above -0.45, deep oceans will not spawn! Above -0.2, oceans will not spawn!
-    "ocean_offset": -0.8,
+    "ocean_offset": -1.2000000476837158,
     // Horizontally scales the ridge noise, primarily impacting rivers and terrain around them like plateaus. Lower values = wider rivers and terrain between them.
     "ridge_scale": 0.25,
     // Underground rivers under snowy biomes will generate with ice.
-    "river_ice": false,
+    "river_ice": true,
     // Underground rivers will rarely generate with hanging lanterns.
     "river_lanterns": true,
     // Some Plains biomes generate very smooth, hilly terrain.
@@ -66,7 +66,7 @@
     // Rare, deep underground tunnels of lava sometimes generate at the bottom of the world.
     "lava_tunnels": true,
     "max_y": 320,
-    "min_y": -64,
+    "min_y": -128,
     // Greatly smoothens out the terrain like Tectonic v2, removing staircasing artifacts at the cost of strange/broken generation in deep oceans and windswept biomes.
     "ultrasmooth": false,
     // Vertically stretches terrain above sea level. Doubling this value will double the surface's height at a given point from sea level.
@@ -74,14 +74,14 @@
   },
   "islands": {
     "enabled": true,
-    "noise_multiplier": 1.0,
+    "noise_multiplier": 1.2000000476837158,
     "noise_offset": 0.0,
     "noise_scale": 0.11
   },
   "minor_version": 1,
   "oceans": {
     // 0 is at sea level, -0.5 is 64 blocks below sea level.
-    "deep_ocean_depth": -0.45,
+    "deep_ocean_depth": -0.5499999523162842,
     // Offsets (vanilla) ocean monuments to adjust for deeper oceans.
     "monument_offset": -30,
     // 0 is at sea level, -0.5 is 64 blocks below sea level.

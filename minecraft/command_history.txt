@@ -28,3 +28,22 @@
 /yigd restore
 /give MonadoMaster0 yigd:death_scroll
 /reload
+/weather clear
+/effect give MonadoMaster0 minecraft:speed infinite 5
+/effect give MonadoMaster0 minecraft:night_vision infinite
+/kill
+/chunky radius 1000
+/chunky start
+/time set day
+/bluemap
+/bluemap reload
+/bluemap force-update worldgentest1 10000
+/bluemap
+/bluemap reload
+/time set day
+/gamerule doDaylightCycle false
+/chunky radius 100000
+/chunky s
+/chunky shape rectangle
+/chunky center 409 336
+/chunky start

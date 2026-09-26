@@ -1,14 +1,14 @@
-[11:39:38] [INIT] KubeJS 2101.7.2-build.377; MC 2101 NeoForge
-[11:39:38] [INIT] Loaded plugins:
-[11:39:38] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
-[11:39:38] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
-[11:39:38] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[11:39:38] [INIT] - moe.wolfgirl.probejs.plugin.ProbeJSKJSPlugin
-[11:39:38] [INIT] - com.sammy.malum.compat.kubejs.MalumJSPlugin
-[11:39:38] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[11:39:38] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
-[11:39:38] [INFO] Loaded script startup_scripts:main.js in 0.034 s
-[11:39:38] [INFO] Loaded script startup_scripts:recall_item.js in 0.006 s
-[11:39:38] [INFO] Loaded 2/2 KubeJS startup scripts in 0.338 s with 0 errors and 0 warnings
-[11:39:38] [INFO] Validated 3 files in kubejs/assets/ in 1ms
-[11:39:38] [INFO] Validated 0 files in kubejs/data/ in 0ms
+[12:59:21] [INIT] KubeJS 2101.7.2-build.377; MC 2101 NeoForge
+[12:59:21] [INIT] Loaded plugins:
+[12:59:21] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[12:59:21] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[12:59:21] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[12:59:21] [INIT] - moe.wolfgirl.probejs.plugin.ProbeJSKJSPlugin
+[12:59:21] [INIT] - com.sammy.malum.compat.kubejs.MalumJSPlugin
+[12:59:21] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[12:59:21] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[12:59:21] [INFO] Loaded script startup_scripts:main.js in 0.036 s
+[12:59:21] [INFO] Loaded script startup_scripts:recall_item.js in 0.008 s
+[12:59:21] [INFO] Loaded 2/2 KubeJS startup scripts in 0.354 s with 0 errors and 0 warnings
+[12:59:21] [INFO] Validated 3 files in kubejs/assets/ in 0ms
+[12:59:21] [INFO] Validated 0 files in kubejs/data/ in 0ms

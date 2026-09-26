@@ -2,3 +2,29 @@
 /kubejs reload
 /kubejs reload server-scripts
 /reload
+/restore MonadoMaster0
+/time set day
+/gamerule doDaylightCycle false
+/restore MonadoMaster0 2c08338f-d88b-408a-aab4-7e77e457bd1f
+/restore MonadoMaster0 2c08338f-d88b-408a-aab4-7e77e457bd1f add
+/restore MonadoMaster0 7437db43-b8f8-426a-9fef-4e4824d72169 add
+/reload
+/give MonadoMaster0 kubejs:recall_item 1
+/give MonadoMaster0 kubejs:recall_item -1
+/tag
+/clear MonadoMaster0 kubejs:recall_item 1
+/give MonadoMaster0 kubejs:recall_item 10
+/reload
+/kubejs reload startup-scripts
+/give MonadoMaster0 kubejs:recall_item 10
+/reload
+/probejs
+/reload
+/re
+/restore
+/restoreinventory
+/yigd
+/give MonadoMaster0 yigd:death_scroll
+/yigd restore
+/give MonadoMaster0 yigd:death_scroll
+/reload

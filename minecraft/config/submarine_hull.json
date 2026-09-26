@@ -3761,10 +3761,6 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
-  "gravestone:gravestone": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
   "malum:aerial_spirited_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -10008,5 +10004,9 @@
   "toms_storage:trim": {
     "maxWaterDepth": 30,
     "implosionChance": 0.82
+  },
+  "yigd:grave": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
   }
 }

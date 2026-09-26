@@ -1,13 +1,39 @@
-[17:49:37] [INIT] KubeJS 2101.7.2-build.377; MC 2101 NeoForge
-[17:49:37] [INIT] Loaded plugins:
-[17:49:37] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
-[17:49:37] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
-[17:49:37] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[17:49:37] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[17:49:37] [INIT] - com.sammy.malum.compat.kubejs.MalumJSPlugin
-[17:49:37] [ERROR] ! server_scripts:death_recall.js#2: Unknown event 'EntityEvents.hurt'!
-[17:49:37] [INFO] Loaded script server_scripts:death_recall.js in 0.003 s
-[17:49:37] [INFO] server_scripts:main.js#2: Hello, World! (Loaded server example script)
-[17:49:37] [INFO] Loaded script server_scripts:main.js in 0.0 s
-[17:49:37] [INFO] Loaded 2/2 KubeJS server scripts in 0.015 s with 1 errors and 0 warnings
-[17:49:41] [INFO] Server resource reload complete!
+[12:03:26] [INIT] KubeJS 2101.7.2-build.377; MC 2101 NeoForge
+[12:03:26] [INIT] Loaded plugins:
+[12:03:26] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[12:03:26] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[12:03:26] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[12:03:26] [INIT] - moe.wolfgirl.probejs.plugin.ProbeJSKJSPlugin
+[12:03:26] [INIT] - com.sammy.malum.compat.kubejs.MalumJSPlugin
+[12:03:26] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[12:03:26] [INFO] Loaded script server_scripts:death_recall.js in 0.001 s
+[12:03:26] [INFO] Loaded script server_scripts:death_scroll_recipe.js in 0.001 s
+[12:03:26] [INFO] server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[12:03:26] [INFO] Loaded script server_scripts:main.js in 0.0 s
+[12:03:26] [INFO] Loaded 3/3 KubeJS server scripts in 0.012 s with 0 errors and 0 warnings
+[12:03:26] [INIT] KubeJS 2101.7.2-build.377; MC 2101 NeoForge
+[12:03:26] [INIT] Loaded plugins:
+[12:03:26] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[12:03:26] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[12:03:26] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[12:03:26] [INIT] - moe.wolfgirl.probejs.plugin.ProbeJSKJSPlugin
+[12:03:26] [INIT] - com.sammy.malum.compat.kubejs.MalumJSPlugin
+[12:03:26] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[12:03:26] [INFO] Loaded script server_scripts:death_recall.js in 0.0 s
+[12:03:26] [INFO] Loaded script server_scripts:death_scroll_recipe.js in 0.0 s
+[12:03:26] [INFO] server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[12:03:26] [INFO] Loaded script server_scripts:main.js in 0.0 s
+[12:03:26] [INFO] Loaded 3/3 KubeJS server scripts in 0.007 s with 0 errors and 0 warnings
+[12:03:26] [INFO] Processing recipes...
+[12:03:26] [INFO] Initializing recipe event...
+[12:03:26] [WARN] KubeRecipe.java#90: Failed to parse recipe 'malum:spirit_repair/flint_restoration[malum:spirit_repair]'! Falling back to vanilla: Failed to read required component 'validItems: registry_element<item>[]' - java.lang.IllegalStateException: Failed to get element farmersdelight:flint_knife
+[12:03:26] [WARN] KubeRecipe.java#90: Failed to parse recipe 'malum:spirit_repair/iron_restoration[malum:spirit_repair]'! Falling back to vanilla: Failed to read required component 'validItems: registry_element<item>[]' - java.lang.IllegalStateException: Failed to get element farmersdelight:iron_knife
+[12:03:26] [WARN] KubeRecipe.java#90: Failed to parse recipe 'malum:spirit_repair/diamond_restoration[malum:spirit_repair]'! Falling back to vanilla: Failed to read required component 'validItems: registry_element<item>[]' - java.lang.IllegalStateException: Failed to get element farmersdelight:diamond_knife
+[12:03:26] [WARN] KubeRecipe.java#90: Failed to parse recipe 'malum:spirit_repair/gold_restoration[malum:spirit_repair]'! Falling back to vanilla: Failed to read required component 'validItems: registry_element<item>[]' - java.lang.IllegalStateException: Failed to get element farmersdelight:golden_knife
+[12:03:26] [WARN] KubeRecipe.java#90: Failed to parse recipe 'malum:spirit_repair/netherite_restoration[malum:spirit_repair]'! Falling back to vanilla: Failed to read required component 'validItems: registry_element<item>[]' - java.lang.IllegalStateException: Failed to get element farmersdelight:netherite_knife
+[12:03:26] [WARN] KubeRecipe.java#90: Failed to parse recipe 'malum:create/milling/grim_talc[create:milling]'! Falling back to vanilla: Failed to read required component 'results: either<fluid_stack, create:processing_output>[]' - java.lang.IllegalStateException: Failed to parse either. First: No key amount in MapLike[{"chance":0.25,"count":4,"item":"minecraft:bone_meal"}]; No key id in MapLike[{"chance":0.25,"count":4,"item":"minecraft:bone_meal"}]; Second: No key id in MapLike[{"chance":0.25,"count":4,"item":"minecraft:bone_meal"}]; Failed to parse either. First: No key amount in MapLike[{"chance":0.25,"item":"minecraft:yellow_dye"}]; No key id in MapLike[{"chance":0.25,"item":"minecraft:yellow_dye"}]; Second: No key id in MapLike[{"chance":0.25,"item":"minecraft:yellow_dye"}]; Failed to parse either. First: No key amount in MapLike[{"count":6,"item":"minecraft:bone_meal"}]; No key id in MapLike[{"count":6,"item":"minecraft:bone_meal"}]; Second: No key id in MapLike[{"count":6,"item":"minecraft:bone_meal"}]
+[12:03:26] [INFO] Found 4,834 recipes (skipped 924) in 141.3 ms
+[12:03:26] [INFO] Posted recipe events in 10 ms
+[12:03:26] [INFO] KubeJS modifications to recipe manager finished in 5.383 ms
+[12:03:27] [INFO] Added 1 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes taking 237 ms in total
+[12:03:28] [INFO] Server resource reload complete!
